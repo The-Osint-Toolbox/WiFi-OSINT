@@ -19,6 +19,8 @@ Wi-Fi Tools
 <br>
 Blogs
 <br><br/>
-<li><a href="https://www.cqcore.uk/the-world-of-wigle/">The World of Wigle</a></li>
-<li><a href="https://osintcurio.us/2019/01/15/tracking-all-the-wifi-things/">Tracking all the WiFi Things</a></li>
+<li><a href="https://www.cqcore.uk/the-world-of-wigle/">cqcore</a></li>
+ <p>The World of Wigle - learn how to use Wigle to find someone. (2021)</p>
+<li><a href="https://osintcurio.us/2019/01/15/tracking-all-the-wifi-things/">WebBreacher</a></li>
+ <p>Learn how to use Wigle to find devices and follow the breadcrumbs. (2019)</p>
 </ul>
