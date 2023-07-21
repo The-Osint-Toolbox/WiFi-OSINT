@@ -20,7 +20,7 @@ Wi-Fi Tools
 MAC Address Lookup Tool
 <br><br/>
 <li><a href="http://standards-oui.ieee.org/oui/oui.txt">IEEE</a></li>
-<br><br/>
+<br>
 Blogs
 <br><br/>
 <li><a href="https://www.cqcore.uk/the-world-of-wigle/">cqcore</a></li>
