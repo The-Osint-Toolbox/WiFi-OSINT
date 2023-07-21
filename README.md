@@ -21,7 +21,7 @@ MAC Address Lookup Tool
 <br><br/>
 <li><a href="http://standards-oui.ieee.org/oui/oui.txt">IEEE</a></li>
 <br>
-Blogs
+ Blogs
 <br><br/>
 <li><a href="https://www.cqcore.uk/the-world-of-wigle/">cqcore</a></li>
  <p>The World of Wigle - learn how to use Wigle to find someone. (2021)</p>
