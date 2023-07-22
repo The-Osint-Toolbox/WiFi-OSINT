@@ -5,13 +5,22 @@
 Wi-Fi Resources
 <br><br/>
  <li><a href="https://o2wifi.co.uk/hotspot">O2 WiFi Hotspot</a></li>
+  <p>O2 Hotspot Finder.</p>
  <li><a href="https://www.btwifi.com/find/">BT WiFi Hotspot</a></li>
- <li><a href="https://instabridge.com/free-wifi/">WiFi Finder</a></li>
+  <p>BT hotspots interactive map.</p>
+ <li><a href="https://openwifimap.net/#map">Open WiFi Map</a></li>
+  <p>OpenWiFiMap is a database and map for free network WiFi routers.</p>
+ <li><a href="https://www.wificafespots.com/">WiFi Cafe Spots</a></li>
+  <p>WiFiCafeSpots - Cafes / Restaurants with free WiFi.</p>
  <li><a href="https://www.wifimap.io/">WiFi Map</a></li>
+  <p>Get access to millions of WiFi hotspots all over the world.</p>
  <li><a href="https://wifiplaces.evidweb.com/">WiFi Places</a></li>
+  <p>Find a free WiFi hotspot. Database, Updates, Guides, Tips and Tutorials.</p>
  <li><a href="https://wifispc.com/">WiFi Space</a></li>
+  <p>Free map of Wi-Fi passwords anywhere you go.</p> 
  <li><a href="https://www.wiman.me/">Wiman</a></li>
-<br>
+  <p>Search for millions of mobile free WiFi hotspots.</p>
+ <br>
 Wi-Fi Tools
 <br><br/>
 <li><a href="https://github.com/GONZOsint/geowifi">GONZO GeoWiFi</a></li>
