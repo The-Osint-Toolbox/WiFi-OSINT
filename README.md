@@ -10,6 +10,8 @@ Wi-Fi Resources
   <p>BT hotspots interactive map.</p>
  <li><a href="https://openwifimap.net/#map">Open WiFi Map</a></li>
   <p>OpenWiFiMap is a database and map for free network WiFi routers.</p>
+ <li><a href="https://3wifi.stascorp.com/find">Stas'M Corp</a></li> 
+  <p>Free wireless database</p>
  <li><a href="https://www.wificafespots.com/">WiFi Cafe Spots</a></li>
   <p>WiFiCafeSpots - Cafes / Restaurants with free WiFi.</p>
  <li><a href="https://www.wifimap.io/">WiFi Map</a></li>
