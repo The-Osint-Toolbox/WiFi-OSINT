@@ -29,7 +29,10 @@ Wi-Fi Resources
  <br>
 Wi-Fi Tools
 <br><br/>
+<li><a href="https://www.freifunk-karte.de/">Firefunk</a></li>
 <li><a href="https://github.com/GONZOsint/geowifi">GONZO GeoWiFi</a></li>
+<li><a href="https://cellphonetrackers.org/gsm/wifi-tracker.php">Profone WiFi Tracker</a></li>
+<li><a href="https://wifidb.net/wifidb/index.php?">FWiFiDB/a></li>
 <li><a href="https://wigle.net/">Wigle</a></li>
 <br>
 MAC Address Lookup Tool
