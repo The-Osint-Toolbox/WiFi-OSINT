@@ -14,7 +14,7 @@ Wi-Fi Resources
   <p>OpenWiFiMap is a database and map for free network WiFi routers.</p>
  <li><a href="https://3wifi.stascorp.com/find">Stas'M Corp</a></li> 
   <p>Free wireless database</p>
- <li><a href="https://unwiredlabs.com/products"></a>UnWiredLabs</li> 
+ <li><a href="https://unwiredlabs.com/products">UnWiredLabs</a></li> 
   <p>Unwired Labs provides tools to locate, analyze and map connected devices around the world.</p>
  <li><a href="https://www.wificafespots.com/">WiFi Cafe Spots</a></li>
   <p>WiFiCafeSpots - Cafes / Restaurants with free WiFi.</p>
