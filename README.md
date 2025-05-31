@@ -1,6 +1,6 @@
 # WiFi-OSINT
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 <p>Some great Wifi, resources, tools and blogs if Wi-Fi OSINT is your thing.</p>
 <ul>
 <br>
